@@ -1,1 +1,0 @@
-# Numpy_Matplotlib_Scikit-learn_tasks
